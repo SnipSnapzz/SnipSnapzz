@@ -2,7 +2,7 @@ Hi, I’m @SnipSnapzz
 
 Skillset
 
-UX/UI | Web Design | Wireframe | Prototype | HTML | CSS | JavaScript |Typescript | React | Next.js | React Native | Node | Rust | Python | Java | 
+UX/UI | Web Design | Wireframe | Prototype | HTML | CSS | JavaScript |Typescript | React | Next.js | React Native | Node | Rust | Python | Java 
 
 I also show interest in mathematics and reverse engineering. 
 
