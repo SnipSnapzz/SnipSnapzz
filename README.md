@@ -8,7 +8,3 @@ I also show interest in mathematics and reverse engineering.
 
 
 I dont really do anything publicly but if you would like to see some of my works pm me on discord @snipsnapz (:
-<!---
-SnipSnapzz/SnipSnapzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
