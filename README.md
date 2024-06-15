@@ -1,6 +1,6 @@
 Hi, I’m @SnipSnapzz
 
-Skillset
+**Skillset**
 
 UX/UI | Web Design | Wireframe | Prototype | HTML | CSS | JavaScript | Typescript | React | Next.js | React Native | Node | Rust | Python | Java 
 
