@@ -6,7 +6,7 @@
   <h2 style="color: #23a62a;">About Me 🌱</h2>
   
   <p style="color: #f1a3eb;">
-    Hi! I'm snipsnapz, a programmer and designer who loves to mix creativity and logic. I also do reverse engineering and graphic design, which is pretty complementary with software development.
+    Hi! I'm snipsnapz, a programmer and designer. I am also good at reverse engineering and graphic design, which is pretty complementary with software development.
   </p>
   
   <h2 style="color: #23a62a;">Languages and Tools 🛠</h2>
