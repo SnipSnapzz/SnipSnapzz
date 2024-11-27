@@ -1,8 +1,6 @@
 <div align="center">
-  <h1 style="color: #f1a3eb;">Welcome to My GitHub Profile!</h1>
-  
-  <img src="https://img.shields.io/badge/Code%20With-%23%20Creativity-pink.svg?style=for-the-badge&color=f1a3eb" />
-  
+  <h1 style="color: #f1a3eb;">Hello!</h1>
+    
   <h2 style="color: #23a62a;">About Me 🌱</h2>
   
   <p style="color: #f1a3eb;">
