@@ -1,13 +1,11 @@
 <div align="center">
-  <h1 style="color: #f1a3eb;">Hello!</h1>
-    
-  <h2 style="color: #23a62a;">About Me 🌱</h2>
+  <h1>Hello!</h1>
   
-  <p style="color: #f1a3eb;">
-    Hi! I'm snipsnapz, a programmer and designer. I am also good at reverse engineering and graphic design, which is pretty complementary with software development.
-  </p>
+  ## About Me 🌱
   
-  <h2 style="color: #23a62a;">Languages and Tools 🛠</h2>
+  Hi! I'm snipsnapz, a programmer and designer. I am also good at reverse engineering and graphic design, which is pretty complementary with software development.
+  
+  ## Languages and Tools 🛠
 
   <div>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -22,7 +20,7 @@
     <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
   </div>
 
-  <h2 style="color: #23a62a;">Frameworks & Libraries 🌸</h2>
+  ## Frameworks & Libraries 🌸
 
   <div>
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -40,7 +38,7 @@
     <img src="https://img.shields.io/badge/Rocket-%23DE1B31.svg?style=for-the-badge&logo=rust&logoColor=white" />
   </div>
 
-  <h2 style="color: #23a62a;">Version Control and CI/CD ⚙️</h2>
+  ## Version Control and CI/CD ⚙️
 
   <div>
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -48,21 +46,21 @@
     <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
   </div>
 
-  <h2 style="color: #23a62a;">OS 💻</h2>
+  ## OS 💻
 
   <div>
     <img src="https://img.shields.io/badge/Windows%2011-%230078D7.svg?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/Arch%20Linux-%23A44D25.svg?style=for-the-badge&logo=arch-linux&logoColor=white" />
   </div>
 
-  <h2 style="color: #23a62a;">IDE 🖥️</h2>
+  ## IDE 🖥️
 
   <div>
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </div>
 
-  <h2 style="color: #23a62a;">Connect with Me 🤝</h2>
+  ## Connect with Me 🤝
 
   <div>
     <img src="https://img.shields.io/badge/Discord-snipsnapz-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
