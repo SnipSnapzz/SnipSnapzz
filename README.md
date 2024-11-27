@@ -15,6 +15,8 @@
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Groovy-%23429970.svg?style=for-the-badge&logo=apachegroovy&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -34,16 +36,25 @@
     <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
     <img src="https://img.shields.io/badge/FastAPI-%23009474.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaFX-%231DA1F2.svg?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/Rocket-%23DE1B31.svg?style=for-the-badge&logo=rust&logoColor=white" />
+  </div>
+
+  <h2 style="color: #23a62a;">Version Control and CI/CD ⚙️</h2>
+
+  <div>
+    <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
   </div>
 
   <h2 style="color: #23a62a;">OS 💻</h2>
 
   <div>
     <img src="https://img.shields.io/badge/Windows%2011-%230078D7.svg?style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/Arch%20Linux-%3A%3A%23A44D25.svg?style=for-the-badge&logo=arch-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Arch%20Linux-%23A44D25.svg?style=for-the-badge&logo=arch-linux&logoColor=white" />
   </div>
 
   <h2 style="color: #23a62a;">IDE 🖥️</h2>
@@ -57,5 +68,8 @@
 
   <div>
     <img src="https://img.shields.io/badge/Discord-snipsnapz-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <a href="https://www.youtube.com/channel/UCjROPOwiWoWQaU_lFNkihXg" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-SnipSnap-red?style=for-the-badge&logo=youtube&logoColor=white" />
+    </a>
   </div>
 </div>
