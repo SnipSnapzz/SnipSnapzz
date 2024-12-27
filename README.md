@@ -3,7 +3,7 @@
   
   ## About Me 🌱
   
-  Hi! I'm snipsnapz, a programmer and designer. I am also good at reverse engineering and graphic design, which is pretty complementary with software development.
+  Hi! I'm snipsnapz, a programmer and designer. I am also good at reverse engineering and graphic design, which is pretty complementary with software development. I am also a cyber security enthusiast (:
   
   ## Languages and Tools 🛠
 
