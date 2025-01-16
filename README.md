@@ -32,7 +32,6 @@
     <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
     <img src="https://img.shields.io/badge/FastAPI-%23009474.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaFX-%231DA1F2.svg?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/Rocket-%23DE1B31.svg?style=for-the-badge&logo=rust&logoColor=white" />
