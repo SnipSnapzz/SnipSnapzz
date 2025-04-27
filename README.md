@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
   </div>
 
-  ## Frameworks & Libraries 🌸
+  ## Favorite Frameworks & Libraries 🌸
 
   <div>
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
